@@ -1,0 +1,15 @@
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\bin\Debug\net8.0-windows\ClothingStore.exe
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\bin\Debug\net8.0-windows\ClothingStore.deps.json
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\bin\Debug\net8.0-windows\ClothingStore.runtimeconfig.json
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\bin\Debug\net8.0-windows\ClothingStore.dll
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\bin\Debug\net8.0-windows\ClothingStore.pdb
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\obj\Debug\net8.0-windows\ClothingStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\obj\Debug\net8.0-windows\ClothingStore.AssemblyInfoInputs.cache
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\obj\Debug\net8.0-windows\ClothingStore.AssemblyInfo.cs
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\obj\Debug\net8.0-windows\ClothingStore.csproj.CoreCompileInputs.cache
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\obj\Debug\net8.0-windows\ClothingStore.dll
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\obj\Debug\net8.0-windows\refint\ClothingStore.dll
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\obj\Debug\net8.0-windows\ClothingStore.pdb
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\obj\Debug\net8.0-windows\ClothingStore.genruntimeconfig.cache
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\obj\Debug\net8.0-windows\ref\ClothingStore.dll
+C:\Users\Anas\Downloads\Clothing_Store\ClothingStore\obj\Debug\net8.0-windows\Clothing.5BC3D267.Up2Date
