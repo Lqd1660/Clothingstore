@@ -1,6 +1,6 @@
-#Login:
-username:sara
-password:2005
+# Login:
+-username:sara
+-password:2005
 
 # Urban Wear - Clothing Store Manager (CS312)
 
