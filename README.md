@@ -1,3 +1,7 @@
+#Login:
+username:sara
+password:2005
+
 # Urban Wear - Clothing Store Manager (CS312)
 
 Windows Forms (.NET 8) application for managing a clothing store.
